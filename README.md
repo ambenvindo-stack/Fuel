@@ -9,3 +9,8 @@ Execute app seguindo os passos:
 - Estando o terminal na pasta do projecto, fazer subir o sevidor executando o comando: php artisan serve.
 - URL: http://127.0.0.1:8000/
 
+<img src="fuel/formulario_inicial.PNG" alt="alt text" title="image Title" />
+
+
+
+<img src="fuel/formulario_resultado.PNG" alt="alt text" title="image Title" />

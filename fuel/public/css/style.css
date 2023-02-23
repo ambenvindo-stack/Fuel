@@ -1,0 +1,51 @@
+.campoTexto {
+    width: 100%;
+    padding: 8px 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border-color: #d9edf7;
+    border-radius: 4px;
+}
+
+h2 {
+    background-color: #d9edf7;
+    color: #286090;
+    margin: 0;
+    padding: 12px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.botao {
+    background-color: #286090;
+    color: #fffefa;
+    text-align: center;
+    border-radius: 4px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+    display: block;
+}
+
+.painel {
+    margin-right: 10px;
+    border-right: thin;
+    border-style: solid;
+    border-color: #d9edf7;
+    flex-grow: 1;
+    border-radius: 8px;
+    max-width: 500px;
+}
+
+.conteudo-painel {
+    padding: 15px;
+}
+
+.sucesso {
+    padding: 10px;
+    border-collapse: collapse;
+    border-color: #dff0d8;
+    color: #3c763d;
+}
